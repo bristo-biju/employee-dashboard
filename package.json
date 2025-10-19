@@ -1,0 +1,11 @@
+{
+  "name": "employee-dashboard",
+  "version": "1.0.0",
+  "description": "Simple Employee Dashboard SPA",
+  "scripts": {
+    "start": "npx http-server -c-1 -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
